@@ -30,16 +30,23 @@ Microsoft Power BI, Tableau.
 #Implementation ::
 
 Stage 1 :
+
 ▪ Get data
+
 ▪ Load data into Stage table(s) (stg_)
+
 ▪ Perform data profiling
 
 Stage 2 :
+
 ▪ Design Dimensional Model 
+
 ▪ Create DDL SQL script
 
 Stage 3 :
+
 ▪ Load dimensional model into Integration tables (int_) from Stage table(s)
 
 Stage 4 :
+
 ▪ Create BI dashboards
