@@ -1,7 +1,7 @@
-# NYC_Food_Inspection
+# New York City (NYC) Food Inspections
 
    
-    The dataset contains every sustained or not yet adjudicated violation citation from every full or special program inspection conducted
+The dataset contains every sustained or not yet adjudicated violation citation from every full or special program inspection conducted
 up to three years prior to the most recent inspection for restaurants and college cafeterias in an active status on the 
 RECORD DATE (date of the data pull). When an inspection results in more than one violation, values for associated fields are
 repeated for each additional violation record. Establishments are uniquely identified by their CAMIS (record ID) number. Keep in mind 
